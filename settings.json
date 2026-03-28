@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "tjrcks",
-    "password": "1.21.4",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "node-fi-free-05.tickhosting.com",
     "port": 42136,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
